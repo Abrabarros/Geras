@@ -1,3 +1,2 @@
 # Geras
-College Project
-Will be updated whenever i remember to
+College Project, Will be updated whenever i remember to
